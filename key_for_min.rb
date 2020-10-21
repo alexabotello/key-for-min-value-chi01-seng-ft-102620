@@ -17,5 +17,5 @@ end
 
 # return min or nil 
 
-min_value 
+min_key 
 end 
