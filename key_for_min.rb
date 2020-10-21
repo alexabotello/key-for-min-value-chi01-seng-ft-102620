@@ -14,3 +14,8 @@ name_hash.each do |key, value|
   else 
 end 
 end
+
+# return min or nil 
+
+min_value 
+end 
